@@ -12,3 +12,8 @@
 - [WebGPU - Chrome Platform Status](https://chromestatus.com/feature/6213121689518080)
 - [toji/webgpu-test: Testing WebGPU](https://github.com/toji/webgpu-test)
   - [Web Graphics API Tester](https://toji.github.io/webgpu-test/)
+- [From WebGL to WebGPU  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/from-webgl-to-webgpu)
+- [WebGPU  |  Chrome for Developers](https://developer.chrome.com/docs/web-platform/webgpu)
+- [Chrome ships WebGPU  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/webgpu-release)
+- [Build an app with WebGPU  |  Chrome for Developers](https://developer.chrome.com/docs/web-platform/webgpu/build-app?hl=en&authuser=2)
+- [Notebooks – colab.google](https://colab.google/notebooks/)
