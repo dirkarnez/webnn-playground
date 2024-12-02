@@ -1,5 +1,5 @@
-webnn-playground
-================
+[webnn-playground](https://dirkarnez.github.io/webnn-playground)
+================================================================
 - [WebNN 概觀 | Microsoft Learn](https://learn.microsoft.com/zh-tw/windows/ai/directml/webnn-overview)
 - [Web Machine Learning](https://github.com/webmachinelearning)
   - [webnn/explainer.md at main · webmachinelearning/webnn](https://github.com/webmachinelearning/webnn/blob/main/explainer.md)
