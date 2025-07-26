@@ -17,3 +17,4 @@
 - [Chrome ships WebGPU  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/webgpu-release)
 - [Build an app with WebGPU  |  Chrome for Developers](https://developer.chrome.com/docs/web-platform/webgpu/build-app?hl=en&authuser=2)
 - [Notebooks – colab.google](https://colab.google/notebooks/)
+- [**玩 WebNN 之前將幫 Microsoft Edge 啟用高效能 GPU**](https://blog.poychang.net/enable-high-performance-gpu-for-microsoft-edge/)
